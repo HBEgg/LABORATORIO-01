@@ -8,15 +8,15 @@ namespace LABORATORIO_01._1.Helper
 {
     public class Storage
     {
-        private static Storage_instance = null; 
-            public static Storage Instance
-        {
-            get
-            {
-                if (_instance == null) _instance = new Storage();
-                return _instance;
-            }
-        }
-        public List<>
+        //private static Storage_instance = null; 
+        //    public static Storage Instance
+        //{
+        //    get
+        //    {
+        //        if (_instance == null) _instance = new Storage();
+        //        return _instance;
+        //    }
+        //}
+        //public List<>
     }
 }

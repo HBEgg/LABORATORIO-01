@@ -77,3 +77,7 @@ C:\Users\hjpin\OneDrive\Documents\LABORATORIO 01.1\LABORATORIO 01.1\obj\Debug\LA
 C:\Users\hjpin\OneDrive\Documents\LABORATORIO 01.1\LABORATORIO 01.1\obj\Debug\LABORATORIO 01.1.csproj.CopyComplete
 C:\Users\hjpin\OneDrive\Documents\LABORATORIO 01.1\LABORATORIO 01.1\obj\Debug\LABORATORIO 01.1.dll
 C:\Users\hjpin\OneDrive\Documents\LABORATORIO 01.1\LABORATORIO 01.1\obj\Debug\LABORATORIO 01.1.pdb
+C:\Users\sergi\Source\Repos\LABORATORIO-012\LABORATORIO 01.1\obj\Debug\LABORATORIO 01.1.csprojAssemblyReference.cache
+C:\Users\sergi\Source\Repos\LABORATORIO-012\LABORATORIO 01.1\obj\Debug\LABORATORIO 01.1.csproj.CoreCompileInputs.cache
+C:\Users\sergi\Source\Repos\LABORATORIO-012\LABORATORIO 01.1\obj\Debug\LABORATORIO 01.1.dll
+C:\Users\sergi\Source\Repos\LABORATORIO-012\LABORATORIO 01.1\obj\Debug\LABORATORIO 01.1.pdb

@@ -126,6 +126,7 @@
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Helper\Storage.cs" />
+    <Compile Include="Models\CSVFile.cs" />
     <Compile Include="Models\PlayerM.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
